@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1490719778 source:c:\users\ehtea\desktop\documenthandlingsystem\documethandlingsystem\main.cpp
+	<iostream>
+	"node.h"
+	<fstream>
+	<string>
+	<algorithm>
+	"Trie.h"
+
+1490717989 c:\users\ehtea\desktop\documenthandlingsystem\documethandlingsystem\node.h
+	<string>
+
+1490716390 source:c:\users\ehtea\desktop\documenthandlingsystem\documethandlingsystem\node.cpp
+	"node.h"
+
+1490718643 source:c:\users\ehtea\desktop\documenthandlingsystem\documethandlingsystem\trie.cpp
+	"Trie.h"
+	<iostream>
+	"node.h"
+	<fstream>
+	<string>
+
+1490718644 c:\users\ehtea\desktop\documenthandlingsystem\documethandlingsystem\trie.h
+	<string>
+	"node.h"
+
